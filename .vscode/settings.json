@@ -1,6 +1,6 @@
 {
   "editor.formatOnSave": false,
-  "[javascript]": {
+  "[typescript]": {
       "editor.formatOnSave": true
   },
   "editor.codeActionsOnSave": {
